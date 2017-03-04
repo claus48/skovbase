@@ -13,9 +13,9 @@ import org.apache.poi.ss.usermodel.Sheet;
  * on a standard machine. The baselines are kept in an Excel spreadsheet that is opened by this    *
  * class and kept for later requests.                                                              *
  *                                                                                                 *
- * <p>                                                                                             *                                                                      *
+ * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 

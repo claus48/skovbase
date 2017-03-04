@@ -8,9 +8,9 @@ import java.util.ArrayList;
  * not in the baseline, and vice versa. Baselines and data from a specific machine is loaded when  *
  * the object is created, and the actual analysis are performed when deviations are requested.     *
  *                                                                                                 *
- * <p>                                                                                             *                                                                      *
+ * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 

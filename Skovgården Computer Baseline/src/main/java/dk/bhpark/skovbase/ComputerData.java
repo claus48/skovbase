@@ -10,9 +10,9 @@ import java.util.ArrayList;
  * This class creates an object that holds all software installed and services running on a speci- *
  * fic machine. The data is loaded from two machine specific files and are kept for later use.     *
  *                                                                                                 *
- * <p>                                                                                             *                                                                      *
+ * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 

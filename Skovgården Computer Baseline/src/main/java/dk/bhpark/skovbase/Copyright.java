@@ -6,7 +6,7 @@ package dk.bhpark.skovbase;
  *                                                                                                 *
  * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 

@@ -11,9 +11,9 @@ import org.junit.Test;
  *                                                                                                 *
  * This class performs all unit testing of the classes that makes up the project.                  *
  *                                                                                                 *
- * <p>                                                                                             *                                                                      *
+ * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 
@@ -52,7 +52,7 @@ public class TestAll {
     @Test
     public void testComputerData() {
 
-		ComputerData computerData = new ComputerData("EDB2");
+		ComputerData computerData = new ComputerData("EDB5");
 		String[][] software = computerData.getSoftware();
 		String[] services = computerData.getServices();
         assertTrue(software.length > 0);
@@ -67,7 +67,7 @@ public class TestAll {
     @Test
     public void testComparator() {
 
-		ComputerData computerData = new ComputerData("EDB2");
+		ComputerData computerData = new ComputerData("EDB5");
     	Baseline baseline = new Baseline();
 		Comparator comparator = new Comparator(computerData, baseline);
 		String[][] softwareDeviations = comparator.getSoftwareDeviations();

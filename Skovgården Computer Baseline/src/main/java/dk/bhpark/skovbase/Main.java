@@ -5,15 +5,15 @@ package dk.bhpark.skovbase;
  * This class is the main class that creates a full list of deviations for all maskines in the     *
  * computer room at Skovg�rden. The list is written to STDOUT.                                     *
  *                                                                                                 *
- * <p>                                                                                             *                                                                      *
+ * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 
 public class Main {
 	
-	private String[] computerList = {"SERVER", "EDB2", "EDB3", "EDB4", "EDB5", "EDB6", "EDB7", "EDB8"};
+	private String[] computerList = {"SERVER", "EDB1", "EDB2", "EDB3", "EDB4", "EDB5", "EDB6", "EDB7", "EDB8"};
 
 	/**
 	 * This method kicks off the program execution.

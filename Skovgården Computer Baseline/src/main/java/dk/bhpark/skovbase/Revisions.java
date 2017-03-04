@@ -8,13 +8,13 @@ import java.io.DataInputStream;
  *                                                                                                 *
  * <p>                                                                                             *
  * <b>(C) Copyright Claus Jensen. 2017                                                             *
- * @version 1.01 - 13/01/2017                                                                      *
+ * @version 1.02 - 04/03/2017                                                                      *
  * @author Claus Jensen (claus@bhpark.dk)                                                          *
  ************************************************************************************************ */
 
 public class Revisions {
 
-	static final String VERSION = "1.01";
+	static final String VERSION = "1.02";
 
 	/**
 	 * This method is called to get the program version.

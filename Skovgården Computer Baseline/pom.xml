@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>dk.bhpark</groupId>
   <artifactId>skovbase</artifactId>
-  <version>1.01</version>
+  <version>1.02</version>
   <name>Skovgården Computer Baseline</name>
   <description>Baseline control for computers in computer room</description>
   <packaging>jar</packaging>
